@@ -1,4 +1,4 @@
-## Commands to run this projecy
+## Commands to run this project
 
 - composer install
 - npm install
